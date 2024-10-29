@@ -1,4 +1,4 @@
-DEMO LINK
+[DEMO LINK](https://stepan-r.github.io/landing-Store/)
 
 Figma - https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212
 
